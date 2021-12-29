@@ -1,17 +1,5 @@
 # SIGMOD22-MBPE
-Our code, data and additional materials are avaliable here.
-## Index  
-```shell
-.
-|- README.md
-|- Code
-|  | - ...
-|
-|- Supplemental_Materials
-|  |- Additional_Experimental_Results.pdf
-|  |- Additional_proofs.pdf
-```
-
+This work, entitled "Efficient Algorithms for Maximal 𝑘-Biplex Enumeration", has been accepted by SIGMOD'2022.
 
 # iTraversal
 An efficient algorithm for enumerating large maximal k-biplexes
