@@ -53,7 +53,7 @@ To see the details, you can choose option "-q 1", then it would output all resul
     . . .
     Running Time: 1ms
     Total Num: 1000
-Note that each line denotes a MBP. To illusrate, consider the first line "0&1&2&3". It denotes a large MB G[{0,1,2,3}].
+Note that each line denotes a MBP. To illusrate, consider the first line "0&1&2&3". It denotes a large MBP G[{0,1,2,3}].
 
 
 ## Running Example
