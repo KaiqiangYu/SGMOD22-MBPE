@@ -20,7 +20,7 @@ g++ main.cpp -O3 -o iTraversal
       -f[dataset], --file=[dataset]       Path to dataset
       -k[para k], --k=[para k]            The parameter k
       -r[Num of MBPs] --r=[Num of MBPs]   The upper bound of the number of returning MBPs 
-      -q[quiete], --q=[quiete]            quiete or not
+      -q[quiet], --q=[quiet]              quiet or not
 
 ## Input Graph Format
 The input graph  should follow the following format.
